@@ -1,7 +1,9 @@
-package br.edu.umfg.ISPP.Legado;
+package br.edu.umfg.ISPP.Refatorado;
 
-public interface Iconta {
+public interface IcontaRefatorada {
     void creditar(Double valor);
     void debitar (Double valor);
     Double getSaldo();
+
+
 }

@@ -1,4 +1,4 @@
-package br.edu.umfg.ISPP;
+package br.edu.umfg.ISPP.Legado;
 
 public class ContaPoupanca implements Iconta {
     private Double saldo;
