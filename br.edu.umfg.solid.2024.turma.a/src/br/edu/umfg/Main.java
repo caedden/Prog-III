@@ -1,3 +1,5 @@
+package br.edu.umfg;
+
 import br.edu.umfg.isp.PrincipioDeSubstituicaoDeLiskov;
 import br.edu.umfg.ocp.PrincipioAbertoFechado;
 import br.edu.umfg.srp.PrincipioDeReponsabilidadeUnica;
